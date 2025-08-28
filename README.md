@@ -5,6 +5,7 @@ This project is a **proof-of-concept (POC)** for building a **browser-based LLM 
 
 Modern LLM agents aren’t limited to text — they dynamically integrate multiple tools and loop until tasks are solved. This app demonstrates that idea with a **minimal, hackable UI + JavaScript agent core**.
 
+Hosted at : https://tds-llm-agent-rho.vercel.app/
 
 ---
 
